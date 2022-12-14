@@ -1,0 +1,97 @@
+body{
+    color: #40514E;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 1em;
+
+}
+h1{
+    color: #010b0b;
+    font-size: 250%;
+    margin: 0 auto 0 autos;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+
+
+
+
+.one{
+    background-color: #E4F9F5;
+    padding-top: 100px;
+    position: relative;
+    
+    
+}
+
+
+.bottom_cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.photo{
+    height: 200px;
+    width: 200px;
+    border-radius: 100%;
+}
+p{
+    text-align: center;
+}
+.a, .b,.c,.d,.e {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    
+}
+p{
+    line-height: 3;
+    padding: 0 auto 0 auto;
+}
+.profile{
+    margin: 75px auto 75px auto;
+}
+.abc{
+    text-align: center;
+    width: 75%;
+    margin: 75px auto 75px auto;
+    
+ 
+}
+.skill-row{
+    margin: 75px auto 75px auto;
+    line-height: 3rem;
+
+}
+.f{
+    height: 75px;
+    width: 75px;
+    float: left;
+}
+.g{
+    height: 75px;
+    width: 75px;
+    margin-top: auto;
+}
+.education{
+    margin: 75px auto 75px auto;
+}
+.three{
+    background-color: #66BFBF;
+}
+.bottom-container{
+    padding: 50px 0 20px ;
+  
+
+}
+
