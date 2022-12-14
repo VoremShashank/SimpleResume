@@ -1,2 +1,2 @@
 # SimpleResume
-Done this simple resume using HTML, CSS, JS
+Done this simple resume using HTML, CSS
